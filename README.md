@@ -17,11 +17,11 @@ Using python language, it is a system for chat through sockets, using RSA algori
 
   open Vscode from anaconda
   
-  in the terminal write
+  in the terminal write:
   
-  conda install sympy  
+     conda install sympy  
   
-  then press(y)
+     then press(y)
   
 
 
@@ -32,7 +32,7 @@ Using python language, it is a system for chat through sockets, using RSA algori
 
 3-then run client file
 
-# steps in commands:
+### steps in commands:
 
 2->python server.py
 
