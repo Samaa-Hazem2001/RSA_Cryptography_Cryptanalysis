@@ -15,9 +15,9 @@ Using python language, it is a system for chat through sockets, using RSA algori
 
 3-Download sympy from anaconda:
 
-    open Vscode from anaconda
+  open Vscode from anaconda
   
-    in the terminal write:
+  in the terminal write:
   
       conda install sympy  
   
@@ -54,7 +54,7 @@ Analysis
 
 ## Result Analysis 
     
-Check RSA_Report
+Check RSA_Report.pdf
 
 ## Code Explanation
 
