@@ -26,13 +26,13 @@ Using python language, it is a system for chat through sockets, using RSA algori
 
 
 ## How to run 🚀
-1-open Vscode from anaconda
+1-Open Vscode from anaconda
 
-2-split Terminal and run server file
+2-Split Terminal and run server file
 
-3-then run client file
+3-Then run client file
 
-steps in commands:
+Steps in commands:
 
      python server.py
 
