@@ -14,9 +14,13 @@ Using python language, it is a system for chat through sockets, using RSA algori
     
 
 3-download sympy from anaconda
+
   open Vscode from anaconda
+  
   in the terminal write
+  
   conda install sympy  
+  
   then press(y)
   
 
