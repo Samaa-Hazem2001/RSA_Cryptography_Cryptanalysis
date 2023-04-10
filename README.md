@@ -13,17 +13,15 @@ Using python language, it is a system for chat through sockets, using RSA algori
     https://docs.anaconda.com/anaconda/install/linux/
     
 
-3-Download sympy from anaconda:
+3-Download sympy and pandas from anaconda:
 
   open Vscode from anaconda
   
   in the terminal write:
   
       conda install sympy  
-  
-      then press(y)
-  
-
+      
+      conda install pandas
 
 ## How to run 
 1-Open Vscode from anaconda
