@@ -2,26 +2,26 @@
 Using python language, it is a system for chat through sockets, using RSA algorithm to encrypt/decrypt the chat texts between two users, then making cryptanalysis for RSA breaking 
 
 ## Before Run
-1-download anaconda  
+1-Download anaconda  
 
-  for windows:
+  For windows:
   
     https://docs.anaconda.com/anaconda/install/windows/
     
-  for linux:
+  For linux:
   
     https://docs.anaconda.com/anaconda/install/linux/
     
 
-3-download sympy from anaconda
+3-Download sympy from anaconda:
 
-  open Vscode from anaconda
+    open Vscode from anaconda
   
-  in the terminal write:
+    in the terminal write:
   
-     conda install sympy  
+      conda install sympy  
   
-     then press(y)
+      then press(y)
   
 
 
@@ -32,8 +32,8 @@ Using python language, it is a system for chat through sockets, using RSA algori
 
 3-then run client file
 
-### steps in commands:
+##### steps in commands:
 
-2->python server.py
+     python server.py
 
-3->python client.py
+     python client.py
