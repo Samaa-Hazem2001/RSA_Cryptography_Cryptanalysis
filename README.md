@@ -32,7 +32,7 @@ Using python language, it is a system for chat through sockets, using RSA algori
 
 3-then run client file
 
-##### steps in commands:
+steps in commands:
 
      python server.py
 
