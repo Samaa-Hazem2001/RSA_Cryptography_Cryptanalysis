@@ -13,7 +13,7 @@ Using python language, it is a system for chat through sockets, using RSA algori
     https://docs.anaconda.com/anaconda/install/linux/
     
 
-3-Download sympy and pandas from anaconda:
+3-Download sympy and matplotlib from anaconda:
 
   open Vscode from anaconda
   
@@ -21,39 +21,27 @@ Using python language, it is a system for chat through sockets, using RSA algori
   
       conda install sympy  
       
-      conda install pandas
+      conda install matplotlib 
 
 ## How to run 
 1-Open Vscode from anaconda
 
-2-Split Terminal and run server file
+For Chatting:
 
-3-Then run client file
+-Split the Terminal then write one of the following in one of them:
+--first run server--
 
-4-After some chatting, kill both runs,then run the attacker 
-
-5-Now run the analysis code to plot the results 
-
-Steps in commands:
-
-Chatting:
-
-     python server.py
-
+     python server.py  
+     
      python client.py
      
-Attacking
-
-      python chatAttack.py
-
-Analysis
+  	Ctrl+c to kill any one and end chatting
+  	
+For Attacking Analysis
 
       python analysis.py
 
-## Result Analysis 
-    
-Check RSA_Report.pdf
+For Encryption and Decryption Analysis
 
-## Code Explanation
+      python enc_dec_Analysis.py
 
-Check this video: 
