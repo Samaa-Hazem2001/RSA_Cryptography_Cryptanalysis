@@ -1,6 +1,3 @@
-# RSA_Cryptography_Cryptanalysis
-Using python language, it is a system for chat through sockets, using RSA algorithm to encrypt/decrypt the chat texts between two users, then making cryptanalysis for RSA breaking 
-
 ## Before Run
 1-Download anaconda  
 
@@ -44,4 +41,3 @@ For Attacking Analysis
 For Encryption and Decryption Analysis
 
       python enc_dec_Analysis.py
-
